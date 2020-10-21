@@ -25,6 +25,10 @@ fork完之后,如图点击<font color="red">Settings</font>
 点击之后
 Name输入V2EXCK value输入你的v2ex cookie
 完成后点击add secret 
+
+### 如何获取 V2ex Cookie？
+主站登陆后刷新，检查里 Network，找一下 Request header 里的 Cokkie。
+
 同理再添加一个qmagapi [获取地址](https://qmsg.zendee.cn)以及sckey(server酱)
 Name 是QMSGAPI value是你的api
 ![](https://cdn.jsdelivr.net/gh/Wenmoux/wenpic/IMG_20200629_092046.jpg)
